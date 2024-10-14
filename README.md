@@ -1,4 +1,4 @@
-# LLM-CPluPlus-Alpha
+# LLM-CPlusPlus-Alpha
 A very basic LLM written in C++ by me few months ago, as a experiment. I've been figuring out how to make GPT completely from scratch all by myself and I have fun doing so.
 
 It can be trained on folder with .txt files and then run with created model folder. 
